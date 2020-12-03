@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="categories">
+        <item>선택</item>
+        <item>자동차</item>
+        <item>패션</item>
+        <item>공익</item>
+        <item>장소</item>
+        <item>대회</item>
+        <item>게임</item>
+        <item>전자기기</item>
+    </string-array>
+</resources>
